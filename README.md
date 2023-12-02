@@ -1,3 +1,10 @@
+<style>
+  .image-container img {
+    width: 100%;
+    height: auto;
+  }
+</style>
+
 
 NeRF Papers on Autonomous driving.
 
@@ -7,7 +14,6 @@ Welcome to recommend new relevant papers!
 - [2021](#2021)
 - [2022](#2022)
 - [2023](#2023)
-- [](#)
 
 
 
@@ -17,38 +23,53 @@ Neural Scene Graphs for Dynamic Scenes
 
 [[paper]](https://arxiv.org/abs/2011.10379)  [[code]](https://github.com/princeton-computational-imaging/neural-scene-graphs) [[project page]](https://light.princeton.edu/publication/neural-scene-graphs/)
 
-![Alt text](asset/NSG1.png)
-![Alt text](asset/NSG2.png)
+<div class="image-container">
+  <img src="asset/NSG1.png" alt="">
+</div>
+<div class="image-container">
+  <img src="asset/NSG2.png" alt="">
+</div>
 
 ---
 MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis
 
 [[paper]](https://arxiv.org/abs/2103.14910)  [[code]](https://github.com/vincentfung13/MINE) [[project page]](https://vincentfung13.github.io/projects/mine/)
 
-![Alt text](asset/MPI.png)
-![Alt text](asset/MPI1.png)
+
+<div class="image-container">
+  <img src="asset/MPI.png" alt="">
+  <img src="asset/MPI1.png" alt="">
+</div>
 
 ## 2022
 Block-NeRF: Scalable Large Scene Neural View Synthesis
 
 [[paper]](https://arxiv.org/abs/2202.05263)  [[project page]](https://waymo.com/intl/zh-cn/research/block-nerf/)
 
-![Alt text](asset/blocknerf.png)
+<div class="image-container">
+  <img src="asset/blocknerf.png" alt="">
+</div>
 
 ---
 Urban Radiance Fields
 
 [[paper]](https://arxiv.org/abs/2111.14643)  [[project page]](https://urban-radiance-fields.github.io/)
 
-![Alt text](asset/urbannerf.png)
-![Alt text](asset/urbannerf1.png)
+
+<div class="image-container">
+  <img src="asset/urbannerf.png" alt="">
+  <img src="asset/urbannerf1.png" alt="">
+</div>
+
 
 ---
 Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation
 
 [[paper]](https://arxiv.org/abs/2205.04334)
 
-![Alt text](asset/PNF.png)
+<div class="image-container">
+  <img src="asset/PNF.png" alt="">
+</div>
 
 ---
 Panoptic NeRF: 3D-to-2D Label Transfer for
@@ -56,7 +77,10 @@ Panoptic Urban Scene Segmentation
 
 [[paper]](https://www.cvlibs.net/publications/Fu2022THREEDV.pdf)  [[code]](https://github.com/fuxiao0719/panopticnerf) [[project page]](https://fuxiao0719.github.io/projects/panopticnerf/)
 
-![Alt text](asset/panopticnerf.png)
+<div class="image-container">
+  <img src="asset/panopticnerf.png" alt="">
+</div>
+
 
 ---
 
@@ -64,18 +88,20 @@ S-NeRF: Neural Radiance Fields for Street Views
 
 [[paper]](https://arxiv.org/abs/2303.00749)  [[code]](https://github.com/fudan-zvg/S-NeRF) [[project page]](https://ziyang-xie.github.io/s-nerf/)
 
-![Alt text](asset/S-street.png)
-
+<div class="image-container">
+  <img src="asset/S-street.png" alt="">
+</div>
 
 
 ## 2023
 
----
 PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes
 
 [[paper]](https://arxiv.org/pdf/2309.10815.pdf)  [[code]](https://github.com/fuxiao0719/PanopticNeRF) [[project page]](https://fuxiao0719.github.io/projects/panopticnerf360/)
 
-![Alt text](asset/panopticnerf360.png)
+<div class="image-container">
+  <img src="asset/panopticnerf360.png" alt="">
+</div>
 
 ---
 
@@ -83,28 +109,38 @@ F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories
 
 [[paper]](https://arxiv.org/pdf/2303.15951.pdf)  [[code]](https://github.com/totoro97/f2-nerf) [[project page]](https://totoro97.github.io/projects/f2-nerf/)
 
-![Alt text](asset/f2nerf.png)
+<div class="image-container">
+  <img src="asset/f2nerf.png" alt="">
+</div>
 
 ---
 StreetSurf: Extending Multi-view Implicit Surface Reconstruction to Street Views
 
 [[paper]](https://arxiv.org/abs/2306.04988)  [[code]](https://github.com/pjlab-ADG/neuralsim) [[project page]](https://ventusff.github.io/streetsurf_web/)
 
-![Alt text](asset/streetsurf.jpg)
+
+<div class="image-container">
+  <img src="asset/streetsurf.jpg" alt="">
+</div>
 
 ---
 UniOcc: Unifying Vision-Centric 3D Occupancy Prediction with Geometric and Semantic Rendering
 
 [[paper]](https://arxiv.org/abs/2306.09117)  
 
-![Alt text](asset/uniocc.png)
+<div class="image-container">
+  <img src="asset/uniocc.png" alt="">
+</div>
 
 ---
 UniSim: A Neural Closed-Loop Sensor Simulator
 
 [[paper]](https://arxiv.org/pdf/2308.01898.pdf)  [[project page]](https://waabi.ai/unisim/)
 
-![Alt text](asset/UNISIM.png)
+<div class="image-container">
+  <img src="asset/UNISIM.png" alt="">
+</div>
+
 ---
 
 MARS: An Instance-aware, Modular and
@@ -112,7 +148,10 @@ Realistic Simulator for Autonomous Driving
 
 [[paper]](https://arxiv.org/abs/2307.15058)  [[code]](https://github.com/OPEN-AIR-SUN/mars) [[project page]](https://open-air-sun.github.io/mars/)
 
-![](asset/MARS.png)
+
+<div class="image-container">
+  <img src="asset/MARS.png" alt="">
+</div>
 
 
 ---
@@ -121,7 +160,10 @@ Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Re
 
 [[paper]](https://arxiv.org/abs/2311.18561)  [[code]](https://github.com/fudan-zvg/PVG)  [[project page]](https://fudan-zvg.github.io/PVG/)
 
-![](asset/PVG.png)
+
+<div class="image-container">
+  <img src="asset/PVG.png" alt="">
+</div>
 
 
 ---
@@ -130,7 +172,10 @@ MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection
 
 [[paper]](https://arxiv.org/abs/2308.09421)  [[code]](https://github.com/cskkxjk/MonoNeRD)
 
-![Alt text](asset/mononerd.png)
+
+<div class="image-container">
+  <img src="asset/mononerd.png" alt="">
+</div>
 
 ---
 SceneRF
@@ -139,28 +184,39 @@ with Radiance Fields
 
 [[paper]](https://arxiv.org/abs/2212.02501)  [[code]](https://github.com/astra-vision/SceneRF) [[project page]](https://astra-vision.github.io/SceneRF/)
 
-![Alt text](asset/scenenerf.png)
+<div class="image-container">
+  <img src="asset/scenenerf.png" alt="">
+</div>
 
 ---
 Urban Radiance Field Representation with Deformable Neural Mesh Primitives
 
 [[paper]](https://arxiv.org/abs/2307.10776)  [[code]](https://github.com/DNMP/DNMP) [[project page]](https://dnmp.github.io/)
 
-![Alt text](asset/urbanrf.png)
+
+<div class="image-container">
+  <img src="asset/urbanrf.png" alt="">
+</div>
 
 ---
 NeuRAD: Neural Rendering for Autonomous Driving
 
 [[paper]](https://arxiv.org/abs/2311.15260)  [[code]](https://github.com/georghess/NeuRAD) [[project page]](https://research.zenseact.com/publications/neurad/)
 
-![Alt text](asset/neurad.png)
+
+<div class="image-container">
+  <img src="asset/neurad.png" alt="">
+</div>
 
 ---
 RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision
 
 [[paper]](https://arxiv.org/abs/2309.09502)  [[code]](https://github.com/pmj110119/RenderOcc)
 
-![Alt text](asset/renderocc.png)
+
+<div class="image-container">
+  <img src="asset/renderocc.png" alt="">
+</div>
 
 ---
 UrbanIR: Large-Scale Urban Scene
@@ -168,8 +224,11 @@ Inverse Rendering from a Single Video
 
 [[paper]](https://arxiv.org/abs/2306.09349)  [[code]](https://urbaninverserendering.github.io/)  [[project page]](https://urbaninverserendering.github.io/)
 
-![Alt text](asset/urbanir.png)
-![Alt text](asset/urbanir1.png)
+
+<div class="image-container">
+  <img src="asset/urbanir.png" alt="">
+  <img src="asset/urbanir1.png" alt="">
+</div>
 
 
 ---
@@ -177,43 +236,56 @@ NFL: Neural LiDAR Fields for Novel View Synthesis
 
 [[paper]](https://nv-tlabs.github.io/nfl/assets/nfl_main.pdf) [[project page]](https://research.nvidia.com/labs/toronto-ai/nfl/)
 
-![Alt text](asset/NFL1.png)
-![Alt text](asset/NFL.png)
+<div class="image-container">
+  <img src="asset/NFL1.png" alt="">
+  <img src="asset/NFL.png" alt="">
+</div>
 
 ---
 NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields
 
 [[paper]](https://arxiv.org/pdf/2304.14811)
 
-![Alt text](asset/nerflidar.png)
+<div class="image-container">
+  <img src="asset/nerflidar.png" alt="">
+</div>
 
 ---
 LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields
 
 [[paper]](https://arxiv.org/abs/2304.10406)  [[code]](https://github.com/tangtaogo/lidar-nerf) [[project page]](https://tangtaogo.github.io/lidar-nerf-website/)
 
-![Alt text](asset/lidarnerf2.png)
+<div class="image-container">
+  <img src="asset/lidarnerf2.png" alt="">
+</div>
 
 ---
 Neural Fields meet Explicit Geometric Representations for Inverse Rendering of Urban Scenes
 
 [[paper]](https://nv-tlabs.github.io/fegr/assets/fegr_paper.pdf) [[project page]](https://research.nvidia.com/labs/toronto-ai/fegr/)
 
-![Alt text](asset/IRurban.jpg)
+<div class="image-container">
+  <img src="asset/IRurban.jpg" alt="">
+</div>
 
 ---
 3D Data Augmentation for Driving Scenes on Camera
 
 [[paper]](https://arxiv.org/pdf/2303.10340)
 
-![Alt text](asset/3ddata.png)
+<div class="image-container">
+  <img src="asset/3ddata.png" alt="">
+</div>
 
 ---
 PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Urban Scene Reconstruction
 
 [[paper]](https://arxiv.org/pdf/2305.16914)
 
-![Alt text](asset/planerf.png)
+
+<div class="image-container">
+  <img src="asset/planerf.png" alt="">
+</div>
 
 
 ---
@@ -223,29 +295,42 @@ Nerflets: Local Radiance Fields for Efficient Structure-Aware
 
 [[paper]](https://arxiv.org/abs/2303.03361)  [[project page]](https://jetd1.github.io/nerflets-web/)
 
-![Alt text](asset/nerflets.png)
+
+<div class="image-container">
+  <img src="asset/nerflets.png" alt="">
+</div>
 
 ---
+
 SUDS: Scalable Urban Dynamic Scenes
 
 [[paper]](https://haithemturki.com/suds/paper.pdf) [[code]](https://github.com/hturki/suds) [[project page]](https://haithemturki.com/suds/)
 
-![Alt text](asset/suds.png)
-![Alt text](asset/suds1.png)
+<div class="image-container">
+  <img src="asset/suds.png" alt="">
+  <img src="asset/suds1.png" alt="">
+</div>
 
 ---
+
 CLONeR: Camera-Lidar Fusion for Occupancy
 Grid-aided Neural Representations
 
 [[paper]](https://arxiv.org/pdf/2209.01194)
 
-![Alt text](asset/cloner.png)
-![Alt text](asset/cloner1.png)
+
+<div class="image-container">
+  <img src="asset/cloner.png" alt="">
+  <img src="asset/cloner1.png" alt="">
+</div>
 
 ---
+
 MV-Map: Offboard HD Map Generation with Multi-view Consistency
 
 [[paper]](https://arxiv.org/pdf/2305.08851)
 
-![Alt text](asset/mvmap.png)
-![Alt text](asset/mvmap1.png)
+<div class="image-container">
+  <img src="asset/mvmap.png" alt="">
+  <img src="asset/mvmap1.png" alt="">
+</div>
