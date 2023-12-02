@@ -1,10 +1,3 @@
-<style>
-  .image-container img {
-    width: 100%;
-    height: auto;
-  }
-</style>
-
 
 NeRF Papers on Autonomous driving.
 
@@ -24,10 +17,10 @@ Neural Scene Graphs for Dynamic Scenes
 [[paper]](https://arxiv.org/abs/2011.10379)  [[code]](https://github.com/princeton-computational-imaging/neural-scene-graphs) [[project page]](https://light.princeton.edu/publication/neural-scene-graphs/)
 
 <div class="image-container">
-  <img src="asset/NSG1.png" alt="" style="max-width: 100%;">
+  <img src="asset/NSG1.png"  width="100%">
 </div>
 <div class="image-container">
-  <img src="asset/NSG2.png" alt="" style="max-width: 100%;" style="max-width: 100%;">
+  <img src="asset/NSG2.png" width="100%">
 </div>
 
 ---
@@ -37,8 +30,8 @@ MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis
 
 
 <div class="image-container">
-  <img src="asset/MPI.png" alt="" style="max-width: 100%;">
-  <img src="asset/MPI1.png" alt="" style="max-width: 100%;" style="max-width: 100%;">
+  <img src="asset/MPI.png"  width="100%">
+  <img src="asset/MPI1.png"  width="100%">
 </div>
 
 ## 2022
@@ -47,7 +40,7 @@ Block-NeRF: Scalable Large Scene Neural View Synthesis
 [[paper]](https://arxiv.org/abs/2202.05263)  [[project page]](https://waymo.com/intl/zh-cn/research/block-nerf/)
 
 <div class="image-container">
-  <img src="asset/blocknerf.png" alt="" style="max-width: 100%;">
+  <img src="asset/blocknerf.png"  width="100%">
 </div>
 
 ---
@@ -57,8 +50,8 @@ Urban Radiance Fields
 
 
 <div class="image-container">
-  <img src="asset/urbannerf.png" alt="" style="max-width: 100%;">
-  <img src="asset/urbannerf1.png" alt="" style="max-width: 100%;">
+  <img src="asset/urbannerf.png"  width="100%">
+  <img src="asset/urbannerf1.png"  width="100%">
 </div>
 
 
@@ -68,7 +61,7 @@ Panoptic Neural Fields: A Semantic Object-Aware Neural Scene Representation
 [[paper]](https://arxiv.org/abs/2205.04334)
 
 <div class="image-container">
-  <img src="asset/PNF.png" alt="" style="max-width: 100%;">
+  <img src="asset/PNF.png"  width="100%">
 </div>
 
 ---
@@ -78,7 +71,7 @@ Panoptic Urban Scene Segmentation
 [[paper]](https://www.cvlibs.net/publications/Fu2022THREEDV.pdf)  [[code]](https://github.com/fuxiao0719/panopticnerf) [[project page]](https://fuxiao0719.github.io/projects/panopticnerf/)
 
 <div class="image-container">
-  <img src="asset/panopticnerf.png" alt="" style="max-width: 100%;">
+  <img src="asset/panopticnerf.png"  width="100%">
 </div>
 
 
@@ -89,7 +82,7 @@ S-NeRF: Neural Radiance Fields for Street Views
 [[paper]](https://arxiv.org/abs/2303.00749)  [[code]](https://github.com/fudan-zvg/S-NeRF) [[project page]](https://ziyang-xie.github.io/s-nerf/)
 
 <div class="image-container">
-  <img src="asset/S-street.png" alt="" style="max-width: 100%;">
+  <img src="asset/S-street.png"  width="100%">
 </div>
 
 
@@ -100,7 +93,7 @@ PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes
 [[paper]](https://arxiv.org/pdf/2309.10815.pdf)  [[code]](https://github.com/fuxiao0719/PanopticNeRF) [[project page]](https://fuxiao0719.github.io/projects/panopticnerf360/)
 
 <div class="image-container">
-  <img src="asset/panopticnerf360.png" alt="" style="max-width: 100%;">
+  <img src="asset/panopticnerf360.png"  width="100%">
 </div>
 
 ---
@@ -110,7 +103,7 @@ F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories
 [[paper]](https://arxiv.org/pdf/2303.15951.pdf)  [[code]](https://github.com/totoro97/f2-nerf) [[project page]](https://totoro97.github.io/projects/f2-nerf/)
 
 <div class="image-container">
-  <img src="asset/f2nerf.png" alt="" style="max-width: 100%;">
+  <img src="asset/f2nerf.png"  width="100%">
 </div>
 
 ---
@@ -120,7 +113,7 @@ StreetSurf: Extending Multi-view Implicit Surface Reconstruction to Street Views
 
 
 <div class="image-container">
-  <img src="asset/streetsurf.jpg" alt="" style="max-width: 100%;">
+  <img src="asset/streetsurf.jpg"  width="100%">
 </div>
 
 ---
@@ -129,7 +122,7 @@ UniOcc: Unifying Vision-Centric 3D Occupancy Prediction with Geometric and Seman
 [[paper]](https://arxiv.org/abs/2306.09117)  
 
 <div class="image-container">
-  <img src="asset/uniocc.png" alt="" style="max-width: 100%;">
+  <img src="asset/uniocc.png"  width="100%">
 </div>
 
 ---
@@ -138,7 +131,7 @@ UniSim: A Neural Closed-Loop Sensor Simulator
 [[paper]](https://arxiv.org/pdf/2308.01898.pdf)  [[project page]](https://waabi.ai/unisim/)
 
 <div class="image-container">
-  <img src="asset/UNISIM.png" alt="" style="max-width: 100%;">
+  <img src="asset/UNISIM.png"  width="100%">
 </div>
 
 ---
@@ -150,7 +143,7 @@ Realistic Simulator for Autonomous Driving
 
 
 <div class="image-container">
-  <img src="asset/MARS.png" alt="" style="max-width: 100%;">
+  <img src="asset/MARS.png"  width="100%">
 </div>
 
 
@@ -162,7 +155,7 @@ Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Re
 
 
 <div class="image-container">
-  <img src="asset/PVG.png" alt="" style="max-width: 100%;">
+  <img src="asset/PVG.png"  width="100%">
 </div>
 
 
@@ -174,7 +167,7 @@ MonoNeRD: NeRF-like Representations for Monocular 3D Object Detection
 
 
 <div class="image-container">
-  <img src="asset/mononerd.png" alt="" style="max-width: 100%;">
+  <img src="asset/mononerd.png"  width="100%">
 </div>
 
 ---
@@ -185,7 +178,7 @@ with Radiance Fields
 [[paper]](https://arxiv.org/abs/2212.02501)  [[code]](https://github.com/astra-vision/SceneRF) [[project page]](https://astra-vision.github.io/SceneRF/)
 
 <div class="image-container">
-  <img src="asset/scenenerf.png" alt="" style="max-width: 100%;">
+  <img src="asset/scenenerf.png"  width="100%">
 </div>
 
 ---
@@ -195,7 +188,7 @@ Urban Radiance Field Representation with Deformable Neural Mesh Primitives
 
 
 <div class="image-container">
-  <img src="asset/urbanrf.png" alt="" style="max-width: 100%;">
+  <img src="asset/urbanrf.png"  width="100%">
 </div>
 
 ---
@@ -205,7 +198,7 @@ NeuRAD: Neural Rendering for Autonomous Driving
 
 
 <div class="image-container">
-  <img src="asset/neurad.png" alt="" style="max-width: 100%;">
+  <img src="asset/neurad.png"  width="100%">
 </div>
 
 ---
@@ -215,7 +208,7 @@ RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision
 
 
 <div class="image-container">
-  <img src="asset/renderocc.png" alt="" style="max-width: 100%;">
+  <img src="asset/renderocc.png"  width="100%">
 </div>
 
 ---
@@ -226,8 +219,8 @@ Inverse Rendering from a Single Video
 
 
 <div class="image-container">
-  <img src="asset/urbanir.png" alt="" style="max-width: 100%;">
-  <img src="asset/urbanir1.png" alt="" style="max-width: 100%;">
+  <img src="asset/urbanir.png"  width="100%">
+  <img src="asset/urbanir1.png"  width="100%">
 </div>
 
 
@@ -237,8 +230,8 @@ NFL: Neural LiDAR Fields for Novel View Synthesis
 [[paper]](https://nv-tlabs.github.io/nfl/assets/nfl_main.pdf) [[project page]](https://research.nvidia.com/labs/toronto-ai/nfl/)
 
 <div class="image-container">
-  <img src="asset/NFL1.png" alt="" style="max-width: 100%;">
-  <img src="asset/NFL.png" alt="" style="max-width: 100%;">
+  <img src="asset/NFL1.png"  width="100%">
+  <img src="asset/NFL.png"  width="100%">
 </div>
 
 ---
@@ -247,7 +240,7 @@ NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields
 [[paper]](https://arxiv.org/pdf/2304.14811)
 
 <div class="image-container">
-  <img src="asset/nerflidar.png" alt="" style="max-width: 100%;">
+  <img src="asset/nerflidar.png"  width="100%">
 </div>
 
 ---
@@ -256,7 +249,7 @@ LiDAR-NeRF: Novel LiDAR View Synthesis via Neural Radiance Fields
 [[paper]](https://arxiv.org/abs/2304.10406)  [[code]](https://github.com/tangtaogo/lidar-nerf) [[project page]](https://tangtaogo.github.io/lidar-nerf-website/)
 
 <div class="image-container">
-  <img src="asset/lidarnerf2.png" alt="" style="max-width: 100%;">
+  <img src="asset/lidarnerf2.png"  width="100%">
 </div>
 
 ---
@@ -265,7 +258,7 @@ Neural Fields meet Explicit Geometric Representations for Inverse Rendering of U
 [[paper]](https://nv-tlabs.github.io/fegr/assets/fegr_paper.pdf) [[project page]](https://research.nvidia.com/labs/toronto-ai/fegr/)
 
 <div class="image-container">
-  <img src="asset/IRurban.jpg" alt="" style="max-width: 100%;">
+  <img src="asset/IRurban.jpg"  width="100%">
 </div>
 
 ---
@@ -274,7 +267,7 @@ Neural Fields meet Explicit Geometric Representations for Inverse Rendering of U
 [[paper]](https://arxiv.org/pdf/2303.10340)
 
 <div class="image-container">
-  <img src="asset/3ddata.png" alt="" style="max-width: 100%;">
+  <img src="asset/3ddata.png"  width="100%">
 </div>
 
 ---
@@ -284,7 +277,7 @@ PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Urban Sce
 
 
 <div class="image-container">
-  <img src="asset/planerf.png" alt="" style="max-width: 100%;">
+  <img src="asset/planerf.png"  width="100%">
 </div>
 
 
@@ -297,7 +290,7 @@ Nerflets: Local Radiance Fields for Efficient Structure-Aware
 
 
 <div class="image-container">
-  <img src="asset/nerflets.png" alt="" style="max-width: 100%;">
+  <img src="asset/nerflets.png"  width="100%">
 </div>
 
 ---
@@ -307,8 +300,8 @@ SUDS: Scalable Urban Dynamic Scenes
 [[paper]](https://haithemturki.com/suds/paper.pdf) [[code]](https://github.com/hturki/suds) [[project page]](https://haithemturki.com/suds/)
 
 <div class="image-container">
-  <img src="asset/suds.png" alt="" style="max-width: 100%;">
-  <img src="asset/suds1.png" alt="" style="max-width: 100%;">
+  <img src="asset/suds.png"  width="100%">
+  <img src="asset/suds1.png"  width="100%">
 </div>
 
 ---
@@ -320,8 +313,8 @@ Grid-aided Neural Representations
 
 
 <div class="image-container">
-  <img src="asset/cloner.png" alt="" style="max-width: 100%;">
-  <img src="asset/cloner1.png" alt="" style="max-width: 100%;">
+  <img src="asset/cloner.png"  width="100%">
+  <img src="asset/cloner1.png"  width="100%">
 </div>
 
 ---
@@ -331,6 +324,6 @@ MV-Map: Offboard HD Map Generation with Multi-view Consistency
 [[paper]](https://arxiv.org/pdf/2305.08851)
 
 <div class="image-container">
-  <img src="asset/mvmap.png" alt="" style="max-width: 100%;">
-  <img src="asset/mvmap1.png" alt="" style="max-width: 100%;">
+  <img src="asset/mvmap.png"  width="100%">
+  <img src="asset/mvmap1.png"  width="100%">
 </div>
