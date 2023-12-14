@@ -327,3 +327,59 @@ MV-Map: Offboard HD Map Generation with Multi-view Consistency
   <img src="asset/mvmap.png"  width="100%">
   <img src="asset/mvmap1.png"  width="100%">
 </div>
+
+---
+
+PointNeRF++: A multi-scale, point-based Neural Radiance Field
+
+[[paper]](https://arxiv.org/pdf/2312.02362)  [[project page]](https://pointnerfpp.github.io/)
+
+<div class="image-container">
+  <img src="asset/pointnerf++.png"  width="100%">
+  <img src="asset/pointnerf++1.png"  width="100%">
+</div>
+
+---
+
+UC-NeRF: Neural Radiance Field for Under-Calibrated Multi-view Cameras in Autonomous Driving
+
+[[paper]](http://arxiv.org/abs/2311.16945)  [[project page]](https://kcheng1021.github.io/ucnerf.github.io/) [[code]](https://github.com/kcheng1021/UC-NeRF)
+
+<div class="image-container">
+  <img src="asset/ucnerf.png"  width="100%">
+  <img src="asset/ucnerf1.png"  width="100%">
+  <img src="asset/ucnerf2.png"  width="100%">
+</div>
+
+---
+
+DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes
+
+[[paper]](https://arxiv.org/pdf/2311.16664)
+
+<div class="image-container">
+  <img src="asset/DGNR.png"  width="100%">
+  <img src="asset/DGNR1.png"  width="100%">
+</div>
+
+---
+
+SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using NeuralRadiance  ields
+
+[[paper]](https://arxiv.org/pdf/2311.15803)
+
+<div class="image-container">
+  <img src="asset/SOAC.png"  width="100%">
+</div>
+
+
+---
+
+PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments
+
+[[paper]](https://arxiv.org/abs/2310.00874)  [[code]](https://github.com/biter0088/pc-nerf)
+
+<div class="image-container">
+  <img src="asset/pcnerf.png"  width="100%">
+  <img src="asset/pcnerf1.png"  width="100%">
+</div>
