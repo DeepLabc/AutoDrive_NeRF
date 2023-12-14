@@ -383,3 +383,14 @@ PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in A
   <img src="asset/pcnerf.png"  width="100%">
   <img src="asset/pcnerf1.png"  width="100%">
 </div>
+
+---
+
+DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes
+
+[[paper]](https://t.co/AtCQsvs3yc)  [[project page]](https://pkuvdig.github.io/DrivingGaussian/) [code(coming soon)]
+
+<div class="image-container">
+  <img src="asset/drivinggaussian.png"  width="100%">
+  <img src="asset/drivinggaussian1.png"  width="100%">
+</div>
