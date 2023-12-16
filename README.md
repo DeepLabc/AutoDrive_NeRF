@@ -1,7 +1,7 @@
 
 NeRF Papers on Autonomous driving.
 
-Welcome to recommend new relevant papers!
+Welcome to recommend relevant papers!
 
 ---
 - [2021](#2021)
@@ -364,7 +364,7 @@ DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes
 
 ---
 
-SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using NeuralRadiance  ields
+SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radiance  Fields
 
 [[paper]](https://arxiv.org/pdf/2311.15803)
 
@@ -393,4 +393,38 @@ DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous
 <div class="image-container">
   <img src="asset/drivinggaussian.png"  width="100%">
   <img src="asset/drivinggaussian1.png"  width="100%">
+</div>
+
+---
+
+LightSim: Neural Lighting Simulation for Urban Scenes
+
+[[paper]](https://arxiv.org/abs/2312.06654)  [[project page]](https://waabi.ai/lightsim/) 
+
+<div class="image-container">
+  <img src="asset/lightsim.png"  width="100%">
+  <img src="asset/lightsim1.png"  width="100%">
+  <img src="asset/lightsim2.png"  width="100%">
+</div>
+
+---
+
+OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields
+
+[[paper]](https://arxiv.org/abs/2312.09243)  [[code]](https://github.com/LinShan-Bin/OccNeRF)  [[project page]](https://linshan-bin.github.io/OccNeRF/)
+
+<div class="image-container">
+  <img src="asset/OCCNeRF.png"  width="100%">
+  <img src="asset/OCCNeRF1.png"  width="100%">
+</div>
+
+---
+ProSGNeRF: Progressive Dynamic Neural Scene Graph with Frequency
+Modulated Auto-Encoder in Urban Scenes
+
+[[paper]](https://arxiv.org/abs/2312.09076)  [code(not yet)]
+
+<div class="image-container">
+  <img src="asset/prosgnerf.png"  width="100%">
+  <img src="asset/prosgnerf1.png"  width="100%">
 </div>
