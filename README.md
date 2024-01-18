@@ -428,3 +428,25 @@ Modulated Auto-Encoder in Urban Scenes
   <img src="asset/prosgnerf.png"  width="100%">
   <img src="asset/prosgnerf1.png"  width="100%">
 </div>
+
+---
+
+NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes
+
+[[paper]](https://arxiv.org/abs/2308.12967)  [[code]](https://github.com/zubair-irshad/NeO-360) [[project page]](https://zubair-irshad.github.io/projects/neo360.html)
+
+<div class="image-container">
+  <img src="asset/NEO_1.jpg"  width="100%">
+  <img src="asset/NEO_2.jpg"  width="100%">
+</div>
+
+---
+
+MatrixCity: A Large-scale City Dataset
+for City-scale Neural Rendering and Beyond
+
+[[paper]](http://arxiv.org/abs/2309.16553)  [[code]](https://github.com/city-super/MatrixCity) [[project page]](https://city-super.github.io/matrixcity/)
+
+<div class="image-container">
+  <img src="asset/matrixcity.jpg"  width="100%">
+</div>
