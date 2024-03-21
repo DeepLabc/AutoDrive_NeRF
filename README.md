@@ -11,6 +11,7 @@ Welcome to recommend relevant papers!
   - [2021](#2021)
   - [2022](#2022)
   - [2023](#2023)
+- [Other](#other)
 - [Codebase](#codebase)
 
 
@@ -598,6 +599,21 @@ OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous D
 
 
 ---
+EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision
+
+[[paper]](https://arxiv.org/abs/2311.02077)  [[code]](https://github.com/NVlabs/EmerNeRF) [[project page]](https://emernerf.github.io/)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="asset/emernerf1.png"  width="100%">
+  <img src="asset/emernerf2.png"  width="100%">
+</div>
+</details>
+
+
+
+# Other
 
 [Awesome nerf](https://github.com/awesome-NeRF/awesome-NeRF)
 
