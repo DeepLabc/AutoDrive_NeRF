@@ -1,10 +1,6 @@
 
 NeRF Papers on Autonomous driving.
 
-Welcome to recommend relevant papers!
-
-
-
 # papers
 
 - [papers](#papers)
