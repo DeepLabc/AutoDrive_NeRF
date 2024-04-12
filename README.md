@@ -7,6 +7,8 @@ NeRF Papers on Autonomous driving.
   - [2021](#2021)
   - [2022](#2022)
   - [2023](#2023)
+  - [2024](#2024)
+  - [](#)
 - [Other](#other)
 - [Codebase](#codebase)
 
@@ -477,21 +479,6 @@ SOAC: Spatio-Temporal Overlap-Aware Multi-Sensor Calibration using Neural Radian
 </div>
 </details>
 
-
----
-
-PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments
-
-[[paper]](https://arxiv.org/abs/2310.00874)  [[code]](https://github.com/biter0088/pc-nerf)
-
-<details>
-<summary>method</summary>
-<div class="image-container">
-  <img src="asset/pcnerf.png"  width="100%">
-  <img src="asset/pcnerf1.png"  width="100%">
-</div>
-</details>
-
 ---
 
 DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes
@@ -607,7 +594,138 @@ EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision
 </div>
 </details>
 
+## 2024
 
+
+PC-NeRF: Parent-Child Neural Radiance Fields under Partial Sensor Data Loss in Autonomous Driving Environments
+
+[[paper]](https://arxiv.org/abs/2310.00874)  [[code]](https://github.com/biter0088/pc-nerf)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="asset/pcnerf.png"  width="100%">
+  <img src="asset/pcnerf1.png"  width="100%">
+</div>
+</details>
+---
+
+NeRFmentation: NeRF-based Augmentation for Monocular Depth Estimation
+
+[[paper]](https://arxiv.org/pdf/2401.03771.pdf)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="asset/nerfmentation.png"  width="100%">
+</div>
+</details>
+
+---
+
+Lightning NeRF: Efficient Hybrid Scene Representation for
+Autonomous Driving
+
+[[paper]](https://arxiv.org/pdf/2403.05907.pdf)  [[code]](https://github.com/VISION-SJTU/Lightning-NeRF)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="asset/lightningnerf.png"  width="100%">
+</div>
+</details>
+
+---
+RoDUS: Robust Decomposition of Static and
+Dynamic Elements in Urban Scenes
+
+[[paper]](https://arxiv.org/abs/2403.09419)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="asset/rodus.png"  width="100%">
+  <img src="asset/rodus1.png"  width="100%">
+</div>
+</details>
+
+---
+UPNeRF: A Unified Framework for Monocular
+3D Object Reconstruction and Pose Estimation
+
+[[paper]](https://arxiv.org/abs/2403.15705)  [[code]](https://github.com/yuliangguo/nerf-auto-driving) [[project page]](https://yuliangguo.github.io/upnerf)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="asset/upnerf.png"  width="100%">
+  <img src="asset/upnerf1.png"  width="100%">
+</div>
+</details>
+
+---
+LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis
+
+[[paper]](https://arxiv.org/abs/2404.02742)  [[code]](https://github.com/ispc-lab/LiDAR4D) [[project page]](https://dyfcalid.github.io/LiDAR4D)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="asset/lidar4d.png"  width="100%">
+</div>
+</details>
+
+---
+S-NeRF++: Autonomous Driving Simulation via Neural Reconstruction and Generation
+
+[[paper]](https://arxiv.org/abs/2402.02112)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="asset/s-nerf++.png"  width="100%">
+</div>
+</details>
+
+---
+NeuroNCAP: Photorealistic Closed-loop Safety
+Testing for Autonomous Driving
+
+[[paper]](https://arxiv.org/pdf/2404.07762.pdf)  [[code]](https://github.com/wljungbergh/NeuroNCAP) [[project page]](https://research.zenseact.com/publications/neuro-ncap/)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="asset/neuroncap.png"  width="100%">
+</div>
+</details>
+
+---
+NeRF2Points: Large-Scale Point Cloud Generation
+From Street Views’ Radiance Field Optimization
+
+[[paper]](https://arxiv.org/abs/2404.04875)
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="asset/nerf2points.png"  width="100%">
+</div>
+</details>
+
+
+---
+INPC: Implicit Neural Point Clouds for Radiance Field Rendering
+
+[[paper]](https://arxiv.org/abs/2403.16862)  [[code]](https://github.com/fhahlbohm/) [[project page]](https://fhahlbohm.github.io/inpc/)
+
+<details>
+<summary>method</summary>
+<div class="image-container">
+  <img src="asset/inpc.png"  width="100%">
+</div>
+</details>
+
+---
 
 # Other
 
